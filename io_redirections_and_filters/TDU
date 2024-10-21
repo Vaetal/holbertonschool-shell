@@ -1,0 +1,11 @@
+#!/bin/bash
+touch -d "2024-10-20 23:56" 0-hello_world
+touch -d "2024-10-20 23:56" 1-confused_smiley
+touch -d "2024-10-20 23:56" 10-no_more_js
+touch -d "2024-10-20 23:56" 11-directories
+touch -d "2024-10-20 23:56" 12-newest_files
+touch -d "2024-10-20 23:56" 2-hellofile
+touch -d "2024-10-20 23:56" 3-twofiles
+touch -d "2024-10-20 23:56" 4-lastlines
+touch -d "2024-10-20 23:56" 5-firstlines
+touch -d "2024-10-20 23:56" 6-third_line
